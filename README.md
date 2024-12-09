@@ -53,7 +53,6 @@ void loop() {
 }_
 
 **Folder Structure**
-
 LiquidCrystal_I2C_SW/
 ├── src/
 │   ├── LiquidCrystal_I2C_SW.h    # Library header file
@@ -65,11 +64,9 @@ LiquidCrystal_I2C_SW/
 ├── README.md                     # Documentation
 
 **Contributing**
-
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you’d like to change.
 
 **License**
-
 This library is licensed under the MIT License. See LICENSE for details.
 
 **Acknowledgments**
