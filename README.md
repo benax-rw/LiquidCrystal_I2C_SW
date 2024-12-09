@@ -52,7 +52,7 @@ void loop() {
     // Your code here
 }_
 
-**Folder Structure**
+**Folder Structure**<br>
 LiquidCrystal_I2C_SW/<br>
 ├── src/<br>
 │   ├── LiquidCrystal_I2C_SW.h    # Library header file<br>
