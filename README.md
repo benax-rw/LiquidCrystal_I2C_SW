@@ -1,4 +1,4 @@
-**LiquidCrystal_I2C_SW**
+<h1>LiquidCrystal_I2C_SW</h1>
 
 LiquidCrystal_I2C_SW is an Arduino library that allows you to control I2C-based LCD displays using the SoftwareWire library. This enables software-based I2C communication, freeing up the hardware I2C pins for other uses.
 
