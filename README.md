@@ -53,15 +53,15 @@ void loop() {
 }_
 
 **Folder Structure**
-LiquidCrystal_I2C_SW/
-├── src/
-│   ├── LiquidCrystal_I2C_SW.h    # Library header file
-│   └── LiquidCrystal_I2C_SW.cpp  # Library source file
-├── examples/
-│   └── Example_Software_I2C_LCD/
-│       └── Example_Software_I2C_LCD.ino # Example sketch
-├── library.properties            # Metadata for the library
-├── README.md                     # Documentation
+LiquidCrystal_I2C_SW/<br>
+├── src/<br>
+│   ├── LiquidCrystal_I2C_SW.h    # Library header file<br>
+│   └── LiquidCrystal_I2C_SW.cpp  # Library source file<br>
+├── examples/<br>
+│   └── Example_Software_I2C_LCD/<br>
+│       └── Example_Software_I2C_LCD.ino # Example sketch<br>
+├── library.properties            # Metadata for the library<br>
+├── README.md                     # Documentation<br>
 
 **Contributing**
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you’d like to change.
